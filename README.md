@@ -1,7 +1,8 @@
 # Introducing Raygun Graphs
 
 Raygun graphs are a new method for visualizing timelines of activity in collaborative insight generation processes. While they are flexible and could be applied to any context where multiple streams of action meed to be accounted for, they were developed to visualize different "epistemic" and "pragmatic" actions in a user study.
-![Example image of a raygun graph](Task1Team1User1.png)
+
+![Example image of a raygun graph](images/Task1Team1User1.png)
 
 The visual style is inspired by raygun illustrations from 1950/60s comics.
 
